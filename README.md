@@ -8,6 +8,11 @@
 |팀장, Backend|Frontend|Frontend|Backend|ui디자인|
 |[PineTuning](https://github.com/Pinethanku)|[minseo0228](https://github.com/minseo0228)|[hyundo0328](https://github.com/hyundo0328)|[heonyoung](https://github.com/heonyoung)|[zubobono](https://github.com/zubono)|
 
+<img src = 'https://github.com/hyundo0328/donggubat_final/assets/103639821/05353829-9781-4221-b135-cb1126188757' width="200" height="400"/>
+<img src = 'https://github.com/hyundo0328/donggubat_final/assets/103639821/a7efdb82-2284-4cd4-950c-8df05204c946'  width="200" height="400"/>
+<img src = 'https://github.com/hyundo0328/donggubat_final/assets/103639821/d897c5e9-e28c-48e2-8aab-826d1ffca3ca'  width="200" height="400"/>
+
+
 ### 서비스 개발목적
 - 1인 가구 지원센터의 웹페이지를 기반으로, 접근성이 높은 모바일 어플리케이션으로 만드는 것이 목적이다. 이를 통해 웹 서비스의 실시간 갱신 등의 단점을 해결하고, 나아가 기존의 불편함을 해결하는 여러 가지 기능을 넣어 지원사업 이용의 편의성과 이용률을 높이고자 한다.
   
